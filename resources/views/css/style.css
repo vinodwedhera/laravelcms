@@ -1,0 +1,8 @@
+.customer-form {
+    text-align: left;
+}
+.customer-form span {
+    color: limegreen;
+    font-size: 19px;
+    font-weight: 600;
+}
